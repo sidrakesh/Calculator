@@ -1,8 +1,6 @@
 Calculator
 ==========
 
-Implementation for a simple calculator
-
 This a program for a complex number calculator.
 Both the parts, i.e. Complex class implementation and corresponding main for a calculator implementation are in the same source file to avoid duplication.
 
